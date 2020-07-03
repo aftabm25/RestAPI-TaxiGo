@@ -1,0 +1,76 @@
+{
+"name" : "Aftab",
+"rank" : "1",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [24.00, 67.00]}
+}
+
+{
+"name" : "Anjum",
+"rank" : "2",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [-24.00, 67.00]}
+}
+
+{
+"name" : "Aysha",
+"rank" : "3",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [12.00, -34.00]}
+}
+
+{
+"name" : "Ameer",
+"rank" : "4",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [-3.00, 12.00]}
+}
+
+{
+"name" : "Anab",
+"rank" : "5",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [-48.00, 22.00]}
+}
+
+{
+"name" : "Max",
+"rank" : "6",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [-67.00, 67.00]}
+}
+
+{
+"name" : "Messi",
+"rank" : "7",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [-45.00, 45.00]}
+}
+
+{
+"name" : "Ronaldo",
+"rank" : "8",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [0.00, -23.00]}
+}
+
+{
+"name" : "Daniel",
+"rank" : "9",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [45.00, 71.00]}
+}
+
+{
+"name" : "Ry",
+"rank" : "10",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [28.00, -23.00]}
+}
+
+{
+"name" : "Uber",
+"rank" : "11",
+"available" : true,
+"geometry" : {"type" : "point" , "coordinates" : [20.00, 80.00]}
+}
